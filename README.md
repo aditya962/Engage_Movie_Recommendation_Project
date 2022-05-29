@@ -8,3 +8,6 @@ Youtube Link: https://youtu.be/41UIzf15fY8
 4. Write Your Mongodb Atlas Password in flaskapp/__init__.py : line
 5. Run app.py
 
+# Flowchart
+
+![This is an image](https://github.com/aditya962/Engage_Movie_Recommendation_Project/blob/master/Flowchart.png)
